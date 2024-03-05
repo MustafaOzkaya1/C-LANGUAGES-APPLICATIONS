@@ -1,0 +1,12 @@
+1) 1 ile 100 arasında rastgele bir sayiyi asagi yukari direktifleriyle tahmin ettirme. 8 tahmin hakki var. Klavyeden 0a basınca çıksın
+
+2)Kütüphaneler " ctime " ,  random 
+2. Y=(x+köküx⁴-8x)/x_3 yazacaksın cmath kütüphane 
+
+
+3)vize ve final notlarına göre gectii ve kaldı yazılacak eger kaldıysa butunleme sorulacak ve vize notu ile tekrar hesaplanacak
+
+4) 1_100 arası random sayılar asılsayılar 20 tane asal olup olmayanları yazdıracaksın
+5) kod analizi satır satır
+
+

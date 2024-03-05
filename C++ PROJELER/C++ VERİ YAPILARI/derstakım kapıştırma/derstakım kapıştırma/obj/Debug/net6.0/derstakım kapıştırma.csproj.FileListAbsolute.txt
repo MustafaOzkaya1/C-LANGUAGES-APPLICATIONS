@@ -1,0 +1,14 @@
+C:\Users\Excalibur\Desktop\PROJELER\C++ PROJELER\C++ VERİ YAPILARI\derstakım kapıştırma\derstakım kapıştırma\bin\Debug\net6.0\derstakım kapıştırma.exe
+C:\Users\Excalibur\Desktop\PROJELER\C++ PROJELER\C++ VERİ YAPILARI\derstakım kapıştırma\derstakım kapıştırma\bin\Debug\net6.0\derstakım kapıştırma.deps.json
+C:\Users\Excalibur\Desktop\PROJELER\C++ PROJELER\C++ VERİ YAPILARI\derstakım kapıştırma\derstakım kapıştırma\bin\Debug\net6.0\derstakım kapıştırma.runtimeconfig.json
+C:\Users\Excalibur\Desktop\PROJELER\C++ PROJELER\C++ VERİ YAPILARI\derstakım kapıştırma\derstakım kapıştırma\bin\Debug\net6.0\derstakım kapıştırma.dll
+C:\Users\Excalibur\Desktop\PROJELER\C++ PROJELER\C++ VERİ YAPILARI\derstakım kapıştırma\derstakım kapıştırma\bin\Debug\net6.0\derstakım kapıştırma.pdb
+C:\Users\Excalibur\Desktop\PROJELER\C++ PROJELER\C++ VERİ YAPILARI\derstakım kapıştırma\derstakım kapıştırma\obj\Debug\net6.0\derstakım kapıştırma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Excalibur\Desktop\PROJELER\C++ PROJELER\C++ VERİ YAPILARI\derstakım kapıştırma\derstakım kapıştırma\obj\Debug\net6.0\derstakım kapıştırma.AssemblyInfoInputs.cache
+C:\Users\Excalibur\Desktop\PROJELER\C++ PROJELER\C++ VERİ YAPILARI\derstakım kapıştırma\derstakım kapıştırma\obj\Debug\net6.0\derstakım kapıştırma.AssemblyInfo.cs
+C:\Users\Excalibur\Desktop\PROJELER\C++ PROJELER\C++ VERİ YAPILARI\derstakım kapıştırma\derstakım kapıştırma\obj\Debug\net6.0\derstakım kapıştırma.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur\Desktop\PROJELER\C++ PROJELER\C++ VERİ YAPILARI\derstakım kapıştırma\derstakım kapıştırma\obj\Debug\net6.0\derstakım kapıştırma.dll
+C:\Users\Excalibur\Desktop\PROJELER\C++ PROJELER\C++ VERİ YAPILARI\derstakım kapıştırma\derstakım kapıştırma\obj\Debug\net6.0\refint\derstakım kapıştırma.dll
+C:\Users\Excalibur\Desktop\PROJELER\C++ PROJELER\C++ VERİ YAPILARI\derstakım kapıştırma\derstakım kapıştırma\obj\Debug\net6.0\derstakım kapıştırma.pdb
+C:\Users\Excalibur\Desktop\PROJELER\C++ PROJELER\C++ VERİ YAPILARI\derstakım kapıştırma\derstakım kapıştırma\obj\Debug\net6.0\derstakım kapıştırma.genruntimeconfig.cache
+C:\Users\Excalibur\Desktop\PROJELER\C++ PROJELER\C++ VERİ YAPILARI\derstakım kapıştırma\derstakım kapıştırma\obj\Debug\net6.0\ref\derstakım kapıştırma.dll

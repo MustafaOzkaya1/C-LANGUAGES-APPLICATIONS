@@ -1,0 +1,14 @@
+C:\Users\Excalibur\Desktop\PROJELER\C++ PROJELER\C++ VERİ YAPILARI\ders deneme\ders deneme\bin\Debug\net6.0\ders deneme.exe
+C:\Users\Excalibur\Desktop\PROJELER\C++ PROJELER\C++ VERİ YAPILARI\ders deneme\ders deneme\bin\Debug\net6.0\ders deneme.deps.json
+C:\Users\Excalibur\Desktop\PROJELER\C++ PROJELER\C++ VERİ YAPILARI\ders deneme\ders deneme\bin\Debug\net6.0\ders deneme.runtimeconfig.json
+C:\Users\Excalibur\Desktop\PROJELER\C++ PROJELER\C++ VERİ YAPILARI\ders deneme\ders deneme\bin\Debug\net6.0\ders deneme.dll
+C:\Users\Excalibur\Desktop\PROJELER\C++ PROJELER\C++ VERİ YAPILARI\ders deneme\ders deneme\bin\Debug\net6.0\ders deneme.pdb
+C:\Users\Excalibur\Desktop\PROJELER\C++ PROJELER\C++ VERİ YAPILARI\ders deneme\ders deneme\obj\Debug\net6.0\ders deneme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Excalibur\Desktop\PROJELER\C++ PROJELER\C++ VERİ YAPILARI\ders deneme\ders deneme\obj\Debug\net6.0\ders deneme.AssemblyInfoInputs.cache
+C:\Users\Excalibur\Desktop\PROJELER\C++ PROJELER\C++ VERİ YAPILARI\ders deneme\ders deneme\obj\Debug\net6.0\ders deneme.AssemblyInfo.cs
+C:\Users\Excalibur\Desktop\PROJELER\C++ PROJELER\C++ VERİ YAPILARI\ders deneme\ders deneme\obj\Debug\net6.0\ders deneme.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur\Desktop\PROJELER\C++ PROJELER\C++ VERİ YAPILARI\ders deneme\ders deneme\obj\Debug\net6.0\ders deneme.dll
+C:\Users\Excalibur\Desktop\PROJELER\C++ PROJELER\C++ VERİ YAPILARI\ders deneme\ders deneme\obj\Debug\net6.0\refint\ders deneme.dll
+C:\Users\Excalibur\Desktop\PROJELER\C++ PROJELER\C++ VERİ YAPILARI\ders deneme\ders deneme\obj\Debug\net6.0\ders deneme.pdb
+C:\Users\Excalibur\Desktop\PROJELER\C++ PROJELER\C++ VERİ YAPILARI\ders deneme\ders deneme\obj\Debug\net6.0\ders deneme.genruntimeconfig.cache
+C:\Users\Excalibur\Desktop\PROJELER\C++ PROJELER\C++ VERİ YAPILARI\ders deneme\ders deneme\obj\Debug\net6.0\ref\ders deneme.dll

@@ -1,0 +1,14 @@
+C:\Users\Excalibur\Desktop\PROJELER\C++ PROJELER\C++ VERİ YAPILARI\classlar deneme\classlar deneme\bin\Debug\net6.0\classlar deneme.exe
+C:\Users\Excalibur\Desktop\PROJELER\C++ PROJELER\C++ VERİ YAPILARI\classlar deneme\classlar deneme\bin\Debug\net6.0\classlar deneme.deps.json
+C:\Users\Excalibur\Desktop\PROJELER\C++ PROJELER\C++ VERİ YAPILARI\classlar deneme\classlar deneme\bin\Debug\net6.0\classlar deneme.runtimeconfig.json
+C:\Users\Excalibur\Desktop\PROJELER\C++ PROJELER\C++ VERİ YAPILARI\classlar deneme\classlar deneme\bin\Debug\net6.0\classlar deneme.dll
+C:\Users\Excalibur\Desktop\PROJELER\C++ PROJELER\C++ VERİ YAPILARI\classlar deneme\classlar deneme\bin\Debug\net6.0\classlar deneme.pdb
+C:\Users\Excalibur\Desktop\PROJELER\C++ PROJELER\C++ VERİ YAPILARI\classlar deneme\classlar deneme\obj\Debug\net6.0\classlar deneme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Excalibur\Desktop\PROJELER\C++ PROJELER\C++ VERİ YAPILARI\classlar deneme\classlar deneme\obj\Debug\net6.0\classlar deneme.AssemblyInfoInputs.cache
+C:\Users\Excalibur\Desktop\PROJELER\C++ PROJELER\C++ VERİ YAPILARI\classlar deneme\classlar deneme\obj\Debug\net6.0\classlar deneme.AssemblyInfo.cs
+C:\Users\Excalibur\Desktop\PROJELER\C++ PROJELER\C++ VERİ YAPILARI\classlar deneme\classlar deneme\obj\Debug\net6.0\classlar deneme.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur\Desktop\PROJELER\C++ PROJELER\C++ VERİ YAPILARI\classlar deneme\classlar deneme\obj\Debug\net6.0\classlar deneme.dll
+C:\Users\Excalibur\Desktop\PROJELER\C++ PROJELER\C++ VERİ YAPILARI\classlar deneme\classlar deneme\obj\Debug\net6.0\refint\classlar deneme.dll
+C:\Users\Excalibur\Desktop\PROJELER\C++ PROJELER\C++ VERİ YAPILARI\classlar deneme\classlar deneme\obj\Debug\net6.0\classlar deneme.pdb
+C:\Users\Excalibur\Desktop\PROJELER\C++ PROJELER\C++ VERİ YAPILARI\classlar deneme\classlar deneme\obj\Debug\net6.0\classlar deneme.genruntimeconfig.cache
+C:\Users\Excalibur\Desktop\PROJELER\C++ PROJELER\C++ VERİ YAPILARI\classlar deneme\classlar deneme\obj\Debug\net6.0\ref\classlar deneme.dll

@@ -1,0 +1,5 @@
+klasik sınavları degerlendirern göruntu isleme teknolojisine sahip yapay zeka
+
+her soruyu algılayıp ayırma
+
+sorular için önceden girilen anahtar kelimeler sayesinde o kelimelerin kagıtta olup olmadıgını tespit edip ona göre puan vermeyi saglama

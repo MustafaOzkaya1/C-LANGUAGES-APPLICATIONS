@@ -1,0 +1,14 @@
+C:\Users\Excalibur\Desktop\PROJELER\C++ PROJELER\C++ VERİ YAPILARI\class yapısı\class yapısı\obj\Debug\net6.0\class yapısı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Excalibur\Desktop\PROJELER\C++ PROJELER\C++ VERİ YAPILARI\class yapısı\class yapısı\obj\Debug\net6.0\class yapısı.AssemblyInfoInputs.cache
+C:\Users\Excalibur\Desktop\PROJELER\C++ PROJELER\C++ VERİ YAPILARI\class yapısı\class yapısı\obj\Debug\net6.0\class yapısı.AssemblyInfo.cs
+C:\Users\Excalibur\Desktop\PROJELER\C++ PROJELER\C++ VERİ YAPILARI\class yapısı\class yapısı\obj\Debug\net6.0\class yapısı.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur\Desktop\PROJELER\C++ PROJELER\C++ VERİ YAPILARI\class yapısı\class yapısı\bin\Debug\net6.0\class yapısı.exe
+C:\Users\Excalibur\Desktop\PROJELER\C++ PROJELER\C++ VERİ YAPILARI\class yapısı\class yapısı\bin\Debug\net6.0\class yapısı.deps.json
+C:\Users\Excalibur\Desktop\PROJELER\C++ PROJELER\C++ VERİ YAPILARI\class yapısı\class yapısı\bin\Debug\net6.0\class yapısı.runtimeconfig.json
+C:\Users\Excalibur\Desktop\PROJELER\C++ PROJELER\C++ VERİ YAPILARI\class yapısı\class yapısı\bin\Debug\net6.0\class yapısı.dll
+C:\Users\Excalibur\Desktop\PROJELER\C++ PROJELER\C++ VERİ YAPILARI\class yapısı\class yapısı\bin\Debug\net6.0\class yapısı.pdb
+C:\Users\Excalibur\Desktop\PROJELER\C++ PROJELER\C++ VERİ YAPILARI\class yapısı\class yapısı\obj\Debug\net6.0\class yapısı.dll
+C:\Users\Excalibur\Desktop\PROJELER\C++ PROJELER\C++ VERİ YAPILARI\class yapısı\class yapısı\obj\Debug\net6.0\refint\class yapısı.dll
+C:\Users\Excalibur\Desktop\PROJELER\C++ PROJELER\C++ VERİ YAPILARI\class yapısı\class yapısı\obj\Debug\net6.0\class yapısı.pdb
+C:\Users\Excalibur\Desktop\PROJELER\C++ PROJELER\C++ VERİ YAPILARI\class yapısı\class yapısı\obj\Debug\net6.0\class yapısı.genruntimeconfig.cache
+C:\Users\Excalibur\Desktop\PROJELER\C++ PROJELER\C++ VERİ YAPILARI\class yapısı\class yapısı\obj\Debug\net6.0\ref\class yapısı.dll
