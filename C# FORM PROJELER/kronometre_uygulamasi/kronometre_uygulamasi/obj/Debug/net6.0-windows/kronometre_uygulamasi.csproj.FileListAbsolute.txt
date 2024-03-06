@@ -1,0 +1,16 @@
+C:\Users\Excalibur\Desktop\PROJELER\c#form\kronometre_uygulamasi\kronometre_uygulamasi\bin\Debug\net6.0-windows\kronometre_uygulamasi.exe
+C:\Users\Excalibur\Desktop\PROJELER\c#form\kronometre_uygulamasi\kronometre_uygulamasi\bin\Debug\net6.0-windows\kronometre_uygulamasi.deps.json
+C:\Users\Excalibur\Desktop\PROJELER\c#form\kronometre_uygulamasi\kronometre_uygulamasi\bin\Debug\net6.0-windows\kronometre_uygulamasi.runtimeconfig.json
+C:\Users\Excalibur\Desktop\PROJELER\c#form\kronometre_uygulamasi\kronometre_uygulamasi\bin\Debug\net6.0-windows\kronometre_uygulamasi.dll
+C:\Users\Excalibur\Desktop\PROJELER\c#form\kronometre_uygulamasi\kronometre_uygulamasi\bin\Debug\net6.0-windows\kronometre_uygulamasi.pdb
+C:\Users\Excalibur\Desktop\PROJELER\c#form\kronometre_uygulamasi\kronometre_uygulamasi\obj\Debug\net6.0-windows\kronometre_uygulamasi.Form1.resources
+C:\Users\Excalibur\Desktop\PROJELER\c#form\kronometre_uygulamasi\kronometre_uygulamasi\obj\Debug\net6.0-windows\kronometre_uygulamasi.csproj.GenerateResource.cache
+C:\Users\Excalibur\Desktop\PROJELER\c#form\kronometre_uygulamasi\kronometre_uygulamasi\obj\Debug\net6.0-windows\kronometre_uygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Excalibur\Desktop\PROJELER\c#form\kronometre_uygulamasi\kronometre_uygulamasi\obj\Debug\net6.0-windows\kronometre_uygulamasi.AssemblyInfoInputs.cache
+C:\Users\Excalibur\Desktop\PROJELER\c#form\kronometre_uygulamasi\kronometre_uygulamasi\obj\Debug\net6.0-windows\kronometre_uygulamasi.AssemblyInfo.cs
+C:\Users\Excalibur\Desktop\PROJELER\c#form\kronometre_uygulamasi\kronometre_uygulamasi\obj\Debug\net6.0-windows\kronometre_uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur\Desktop\PROJELER\c#form\kronometre_uygulamasi\kronometre_uygulamasi\obj\Debug\net6.0-windows\kronometre_uygulamasi.dll
+C:\Users\Excalibur\Desktop\PROJELER\c#form\kronometre_uygulamasi\kronometre_uygulamasi\obj\Debug\net6.0-windows\refint\kronometre_uygulamasi.dll
+C:\Users\Excalibur\Desktop\PROJELER\c#form\kronometre_uygulamasi\kronometre_uygulamasi\obj\Debug\net6.0-windows\kronometre_uygulamasi.pdb
+C:\Users\Excalibur\Desktop\PROJELER\c#form\kronometre_uygulamasi\kronometre_uygulamasi\obj\Debug\net6.0-windows\kronometre_uygulamasi.genruntimeconfig.cache
+C:\Users\Excalibur\Desktop\PROJELER\c#form\kronometre_uygulamasi\kronometre_uygulamasi\obj\Debug\net6.0-windows\ref\kronometre_uygulamasi.dll

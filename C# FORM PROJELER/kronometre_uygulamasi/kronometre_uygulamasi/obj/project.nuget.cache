@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "IXy0Maea0N73L2dcb3HJVbFclrIxDWHUiNeu0ZrA61R8fQC6ePfmYT6ttxVsaNH7RxyP+JSs03AuyXbjHa0cpA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Excalibur\\Desktop\\PROJELER\\c#form\\kronometre_uygulamasi\\kronometre_uygulamasi\\kronometre_uygulamasi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Excalibur\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Excalibur\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Excalibur\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Excalibur\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
